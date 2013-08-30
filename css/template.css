@@ -11,14 +11,12 @@
 	Date       : Jun 01, 2011
 -------------------------------------------------------------*/
 body {
-	background:transparent url(../images/bg_body.jpg) repeat-x fixed left top;
 	color:#FFF;
 	font-family:Trebuchet MS,Verdana,Tahoma;
 	font-size:12px;
 	letter-spacing:normal;
 }
 div#container{
-	background-color:#fff;
 	display:block;
 	height:100%;
 }
